@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kill-blocks-game/static/css/main.0221153d.chunk.css",
+    "main.js": "/kill-blocks-game/static/js/main.ba6258b5.chunk.js",
+    "main.js.map": "/kill-blocks-game/static/js/main.ba6258b5.chunk.js.map",
+    "runtime-main.js": "/kill-blocks-game/static/js/runtime-main.5fa63918.js",
+    "runtime-main.js.map": "/kill-blocks-game/static/js/runtime-main.5fa63918.js.map",
+    "static/css/2.a10ec74d.chunk.css": "/kill-blocks-game/static/css/2.a10ec74d.chunk.css",
+    "static/js/2.d06d55d3.chunk.js": "/kill-blocks-game/static/js/2.d06d55d3.chunk.js",
+    "static/js/2.d06d55d3.chunk.js.map": "/kill-blocks-game/static/js/2.d06d55d3.chunk.js.map",
+    "index.html": "/kill-blocks-game/index.html",
+    "static/css/2.a10ec74d.chunk.css.map": "/kill-blocks-game/static/css/2.a10ec74d.chunk.css.map",
+    "static/css/main.0221153d.chunk.css.map": "/kill-blocks-game/static/css/main.0221153d.chunk.css.map",
+    "static/js/2.d06d55d3.chunk.js.LICENSE.txt": "/kill-blocks-game/static/js/2.d06d55d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa63918.js",
+    "static/css/2.a10ec74d.chunk.css",
+    "static/js/2.d06d55d3.chunk.js",
+    "static/css/main.0221153d.chunk.css",
+    "static/js/main.ba6258b5.chunk.js"
+  ]
+}
